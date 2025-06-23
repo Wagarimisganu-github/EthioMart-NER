@@ -150,4 +150,4 @@ Label a subset of Amharic messages (30–50) for NER training using the CoNLL fo
 ## 📬 Contact
 
 **Shegaw Adugna**  
-GitHub: [https://github.com/Shegaw-21hub/EthioMart-NER](https://github.com/Shegaw-21hub/EthioMart-NER)
+GitHub: [https://github.com/Wagarimisganu-github/EthioMart-NER)
